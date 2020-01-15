@@ -1,0 +1,19 @@
+body{
+    background-color: beige;
+    font-size: medium;
+}
+.container{
+    width: 60%;
+    margin: auto;
+    padding: 10px;
+    
+}
+input,select,textarea, button{
+    padding:3px;
+    border: 1px solid burlywood;
+    font-size: large;
+}
+button{
+    background-color: cornsilk;
+    border-radius: 6px;
+}
